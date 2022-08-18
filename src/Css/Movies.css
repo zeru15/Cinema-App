@@ -1,0 +1,28 @@
+
+
+.horizontal-line {
+    color: white;
+}
+ul.movies-list {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-row-gap: 50px;
+    margin: 50px;
+    padding: 50px;
+    list-style-type: none;
+}
+.movie-info h1 {
+    text-align: center;
+    color: white;
+    font-size: 70px;
+}
+.movie-description {
+    color: white;
+    margin: 20px;
+}
+.movie-description ul {
+    float: left;
+}
+.movies {
+    color: silver
+}

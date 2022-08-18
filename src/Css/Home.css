@@ -1,0 +1,13 @@
+.home-body {
+    color: white;
+}
+.welcome-text {
+    padding-left: 700px;
+    padding-top: 150px;
+    font-size: 75px;
+}
+.subscribe-text {
+    padding-left: 800px;
+    font-size: 25px;
+    padding-top: 10px;
+}
